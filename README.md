@@ -42,8 +42,8 @@ sudo apt-get install jenkins
 http://<ec2-instance-public-ip-address>:8080
 
 After you login to Jenkins, 
-      - Run the command to copy the Jenkins Admin Password - `sudo cat /var/lib/jenkins/secrets/initialAdminPassword`
-      - Enter the Administrator password
+- Run the command to copy the Jenkins Admin Password - `sudo cat /var/lib/jenkins/secrets/initialAdminPassword` 
+- Enter the Administrator password
 
 ***************************************************************************************************
 ### Install Jenkins, configure Docker as agent, set up cicd
