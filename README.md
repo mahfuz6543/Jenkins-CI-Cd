@@ -8,7 +8,7 @@
 Pre-Requisites:
  - Java (JDK)
 
-# Run the below commands to install Java and Jenkins
+### Run the below commands to install Java and Jenkins
 
 Install Java
 
@@ -46,9 +46,9 @@ After you login to Jenkins,
       - Enter the Administrator password
 
 ***************************************************************************************************
-##Install Jenkins, configure Docker as agent, set up cicd
+### Install Jenkins, configure Docker as agent, set up cicd
 
-## Install the Docker Pipeline plugin in Jenkins:
+### Install the Docker Pipeline plugin in Jenkins:
 
    - Log in to Jenkins.
    - Go to Manage Jenkins > Manage Plugins.
@@ -56,7 +56,7 @@ After you login to Jenkins,
    - Select the plugin and click the Install button.
    - Restart Jenkins after the plugin is installed.
 
-## Docker Slave Configuration
+### Docker Slave Configuration
 
 Run the below command to Install Docker
 
